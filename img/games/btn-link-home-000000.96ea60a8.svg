@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Shape_home_copy_2" data-name="Shape home copy 2" class="cls-1" d="M43.372,46.124H31.032V37.507c0-2.5-1.275-4.143-3.755-4.435a20.791,20.791,0,0,0-4.989.034,3.97,3.97,0,0,0-3.56,4.276q0,4.042,0,8.085V46.1H6.435V27.708H0.5L24.966,3.249l24.348,24.4H43.372V46.124Z"/>
+</svg>
